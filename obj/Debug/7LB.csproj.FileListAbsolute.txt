@@ -1,0 +1,11 @@
+C:\Users\sovik\source\repos\7LB\7LB\bin\Debug\7LB.exe.config
+C:\Users\sovik\source\repos\7LB\7LB\bin\Debug\7LB.exe
+C:\Users\sovik\source\repos\7LB\7LB\bin\Debug\7LB.pdb
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\7LB.csproj.AssemblyReference.cache
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\7LB.csproj.SuggestedBindingRedirects.cache
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\_7LB.Form1.resources
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\_7LB.Properties.Resources.resources
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\7LB.csproj.GenerateResource.cache
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\7LB.csproj.CoreCompileInputs.cache
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\7LB.exe
+C:\Users\sovik\source\repos\7LB\7LB\obj\Debug\7LB.pdb
